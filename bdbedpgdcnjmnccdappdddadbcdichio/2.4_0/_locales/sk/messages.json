@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Zosilnenie zvuku, zvýraznenie basov, ovládanie hlasitosti, univerzálny ekvalizér a pohodlná regulácia hlasitosti. Zažite hlasnejšiu hudbu alebo hlasitosť videa."
+   },
+   "header_description": {
+      "message": "Ovládajte hlasitosť aktuálnej karty pomocou posuvníka nižšie."
+   },
+   "name": {
+      "message": "AudioMax zosilňovač zvuku"
+   }
+}

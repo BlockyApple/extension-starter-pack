@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Kohenna ääntä, paranna bassoa, säädä äänenvoimakkuutta, monipuolinen taajuuskorjain ja kätevä äänenvoimakkuuden säätö. Koe kovempi musiikki- tai videon äänenvoimakkuus."
+   },
+   "header_description": {
+      "message": "Säädä nykyisen välilehden äänenvoimakkuutta alla olevalla liukusäätimellä."
+   },
+   "name": {
+      "message": "AudioMaxin äänenvahvistin"
+   }
+}

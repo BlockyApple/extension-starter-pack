@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Aumenta o som, realça os graves, controla o volume, equalizador versátil e controle de volume conveniente. Experimente música ou volume de vídeo mais alto."
+   },
+   "header_description": {
+      "message": "Controle o volume da aba atual com o controle deslizante abaixo."
+   },
+   "name": {
+      "message": "Amplificador de som da AudioMax"
+   }
+}

@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Aumenta il suono, migliora i bassi, controlla il volume, equalizzatore versatile e controllo del volume conveniente. Sperimenta musica o video a volume più alto."
+   },
+   "header_description": {
+      "message": "Controlla il volume della scheda corrente con il cursore sottostante."
+   },
+   "name": {
+      "message": "Booster audio di AudioMax"
+   }
+}

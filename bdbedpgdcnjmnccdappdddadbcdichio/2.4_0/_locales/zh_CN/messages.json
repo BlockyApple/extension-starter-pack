@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "提高音量，增强低音，控制音量，多功能均衡器和方便的音量控制。体验更响亮的音乐或视频音量。"
+   },
+   "header_description": {
+      "message": "使用下面的滑块控制当前选项卡的音量。"
+   },
+   "name": {
+      "message": "AudioMax声音增强器"
+   }
+}

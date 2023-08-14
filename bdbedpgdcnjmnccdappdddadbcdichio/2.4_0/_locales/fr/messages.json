@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Augmentez le son, améliorez les basses, contrôlez le volume, égaliseur polyvalent et contrôle du volume pratique. Vivez une musique ou un volume vidéo plus fort."
+   },
+   "header_description": {
+      "message": "Contrôlez le volume de l'onglet actuel avec le curseur ci-dessous."
+   },
+   "name": {
+      "message": "Booster de son par AudioMax"
+   }
+}
