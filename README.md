@@ -1,3 +1,76 @@
+## Tutorial: Installing Chrome Extensions from Extracted Files
+
+In this tutorial, we will guide you through the process of installing Chrome extensions from extracted files. Follow these steps to get your desired extensions up and running!
+
+### Step 1: Extract the Downloaded RAR File
+
+Start by extracting the downloaded RAR file to a location on your computer. This RAR file contains the extension files you need for installation. Here's how:
+
+1. Download the RAR file to your computer.
+2. Right-click the RAR file and select "Extract" or "Extract Here".
+3. Choose a destination folder for the extracted files.
+
+![Extract RAR File](git-assets/extract.png)
+
+### Step 2: Enable Developer Mode in Your Browser
+
+Before you can install extensions from extracted files, you need to enable Developer Mode in your browser. Here are the steps for popular browsers like Chrome, Edge, and Opera:
+
+#### Google Chrome:
+
+1. Open Google Chrome.
+2. Click the three dots menu in the upper-right corner.
+3. Go to "More tools" > "Extensions".
+4. Toggle on the "Developer mode" switch.
+
+![Enable Developer Mode Chrome](git-assets/developermode-chrome.png)
+
+#### Microsoft Edge:
+
+1. Open Microsoft Edge.
+2. Click the three dots menu in the upper-right corner.
+3. Select "Extensions".
+4. Turn on the "Developer mode" toggle.
+
+![Enable Developer Mode Edge](git-assets/developermode-edge.png)
+
+#### Opera:
+
+1. Launch Opera.
+2. Click the "Opera" menu in the top-left corner.
+3. Choose "Extensions" > "Extensions".
+4. Enable the "Developer mode" option.
+
+![Enable Developer Mode Opera](git-assets/developermode-opera.png)
+
+### Step 3: Load Unpacked Extension
+
+Now that Developer Mode is enabled, you can proceed to load the unpacked extension files:
+
+1. Open the "Extensions" page in your browser as described in Step 2.
+2. Click the "Load unpacked" or "Load extension" button.
+3. Navigate to the folder where you extracted the extension files in Step 1 and select the folder.
+4. The extension will be added to your browser.
+
+![Load Unpacked Extension](git-assets/load.png)
+
+### Step 4: Repeat for Each Extension
+
+If you have multiple extensions to install, repeat Step 3 for each extracted extension folder. This way, you can install all the desired extensions one by one.
+
+### Step 5: Enjoy Your Extensions
+
+Congratulations! You have successfully installed your desired extensions from the extracted files. You should now see the extension icons in your browser's toolbar or extensions menu.
+
+![Installed Extensions](git-assets/extensions.png)
+
+Feel free to customize your browsing experience with these new tools and features!
+
+
+
+
+
+
 ## Extension Pack: Adobe Acrobat, Gmail Tools, and More
 
 ### Adobe Acrobat: PDF Edit, Convert, Sign Tools
@@ -67,3 +140,4 @@ Discover what runs a website. Frameworks, Analytics Tools, WordPress Plugins, Fo
 ### uBlock Origin
 Version: 1.51.0
 Finally, an efficient blocker. Easy on CPU and memory.
+
