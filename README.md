@@ -125,10 +125,6 @@ Skip sponsorships, subscription begging and more on YouTube videos. Report spons
 Version: 1.1.2.4
 Tripadvisor's official browser extension. Know Better, Book Better, Go Better
 
-### Vencord Web
-Version: 1.4.3
-The cutest Discord mod now in your browser
-
 ### Volume Master
 Version: 1.13.2
 Up to 600% volume boost
